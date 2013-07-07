@@ -6,6 +6,7 @@
 	<script src="{{URL::to('assets')}}js/bootstrap.min.js"></script>
         <link href="{{URL::to('assets')}}/css/bootstrap.min.css" rel="stylesheet">
         <link href="{{URL::to('assets')}}/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="{{URL::to('assets')}}/assets/css/font-awesome.min.css" rel="stylesheet">
 
 		
         <style>
