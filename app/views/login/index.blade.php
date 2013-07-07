@@ -21,7 +21,7 @@
     </ul>
 {{ Form::close() }}
 
-@if ($errors)
+@if (Session::has('errors' ))
     <ul>
         <li class="error">{{ Session::get('errors') }} </li>
     </ul>
