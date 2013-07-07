@@ -8,7 +8,7 @@
 		<li><a href="#">Feeds</a></li>
 	</ul>
 	<div class="navbar-form pull-right">
-		<button href="" type="submit" class="btn">Logout</button>
+		<button href="{{ URL::to('logout') }}" type="submit" class="btn">Logout</button>
 	 </div>			
 	</div>
 </div>
