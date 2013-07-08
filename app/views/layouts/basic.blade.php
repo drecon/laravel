@@ -3,11 +3,10 @@
     <head>
         <meta charset="utf-8">
 	<script src="{{URL::to('assets')}}/js/jquery-1.10.2.min.js"></script>
-	<script src="{{URL::to('assets')}}js/bootstrap.min.js"></script>
+	<script src="{{URL::to('assets')}}/js/bootstrap.min.js"></script>
         <link href="{{URL::to('assets')}}/css/bootstrap.min.css" rel="stylesheet">
-        <link href="{{URL::to('assets')}}/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
-        <link href="{{URL::to('assets')}}/assets/css/font-awesome.min.css" rel="stylesheet">
-
+        <link href="{{URL::to('assets')}}/css/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="{{URL::to('assets')}}/css/font-awesome.min.css" rel="stylesheet">		
 		
         <style>
             table form { margin-bottom: 0; }
